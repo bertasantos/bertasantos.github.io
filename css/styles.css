@@ -56,7 +56,7 @@ body {
   footer {
     display: flex;  /* allows use of "justify-content" property */
     justify-content: center;  /* horizontally centers the contents (the social icons) */
-    background-color: #666;
+    background-color: palevioletred;
     height: 100px;
     padding: 20px;
   }
